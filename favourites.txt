@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 ice cream
 chips
 chocolates
+=======
+One day
+Titanic
+Spiderman
+>>>>>>> movies
